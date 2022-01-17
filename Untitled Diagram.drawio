@@ -1,35 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T09:06:08.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="uL-ZfF3iofu-RJK-c5dQ" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T09:27:24.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="8qdjheDoyEHwQqxJtgZH" version="16.2.7" type="github">
   <diagram id="7y-EHpgLF9p1H6iW4e6p" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1Q_X3p0O61QN7MyHaXlF-1" value="教育系统" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="170" y="200" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="1Q_X3p0O61QN7MyHaXlF-4" value="倒计时模块" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="90" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="1Q_X3p0O61QN7MyHaXlF-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1Q_X3p0O61QN7MyHaXlF-4" target="1Q_X3p0O61QN7MyHaXlF-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="400" y="160" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1Q_X3p0O61QN7MyHaXlF-6" value="界面空闲时调用" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="210" width="110" height="20" as="geometry" />
+          <mxGeometry x="280" y="170" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1Q_X3p0O61QN7MyHaXlF-8" value="视频播放模块" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="165" y="390" width="90" height="70" as="geometry" />
+          <mxGeometry x="400" y="287" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1Q_X3p0O61QN7MyHaXlF-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1Q_X3p0O61QN7MyHaXlF-8" target="1Q_X3p0O61QN7MyHaXlF-1">
+        <mxCell id="1Q_X3p0O61QN7MyHaXlF-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Q_X3p0O61QN7MyHaXlF-8" target="1Q_X3p0O61QN7MyHaXlF-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="440" y="370" as="targetPoint" />
+            <mxPoint x="390" y="537" as="sourcePoint" />
+            <mxPoint x="290" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Q_X3p0O61QN7MyHaXlF-10" value="事故树分析法教学模块使用" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="220" y="340" width="180" height="20" as="geometry" />
+        <mxCell id="1Q_X3p0O61QN7MyHaXlF-29" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1Q_X3p0O61QN7MyHaXlF-21" target="1Q_X3p0O61QN7MyHaXlF-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Q_X3p0O61QN7MyHaXlF-21" value="教育系统" style="swimlane;horizontal=0;rounded=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="137" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_X3p0O61QN7MyHaXlF-22" value="首页" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=14;" vertex="1" parent="1Q_X3p0O61QN7MyHaXlF-21">
+          <mxGeometry x="30" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_X3p0O61QN7MyHaXlF-23" value="身份认证" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=14;" vertex="1" parent="1Q_X3p0O61QN7MyHaXlF-21">
+          <mxGeometry x="30" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_X3p0O61QN7MyHaXlF-24" value="模式选择" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=14;" vertex="1" parent="1Q_X3p0O61QN7MyHaXlF-21">
+          <mxGeometry x="30" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_X3p0O61QN7MyHaXlF-25" value="铁路安全事故展示" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=14;" vertex="1" parent="1Q_X3p0O61QN7MyHaXlF-21">
+          <mxGeometry x="30" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_X3p0O61QN7MyHaXlF-26" value="事故树分析法教学" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=14;" vertex="1" parent="1Q_X3p0O61QN7MyHaXlF-21">
+          <mxGeometry x="30" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q_X3p0O61QN7MyHaXlF-27" value="事故树分析法练习" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=#FFFFFF;sketch=0;fontSize=14;" vertex="1" parent="1Q_X3p0O61QN7MyHaXlF-21">
+          <mxGeometry x="30" y="210" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
