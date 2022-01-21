@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T03:24:03.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="aJ5QW2Jqi84tIvjxgoOD" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T03:27:00.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="q4OXVBo6av3vs5PPNzRr" version="16.4.2" type="github">
   <diagram id="I95dUkhAVogwGT9_Y_BA" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -93,8 +93,8 @@
         <mxCell id="hm_DF0x08neNtb9daB28-54" value="模拟体感机械装置" style="swimlane;fontSize=13;rounded=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="hm_DF0x08neNtb9daB28-12">
           <mxGeometry x="318" y="730" width="422" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="hm_DF0x08neNtb9daB28-55" value="&lt;ol style=&quot;font-size: 12px&quot;&gt;&lt;li&gt;车辆碾压手部&lt;/li&gt;&lt;li&gt;车辆碾压脚部&lt;/li&gt;&lt;li&gt;车辆碰撞手部&lt;/li&gt;&lt;li&gt;车辆碰撞脚部&lt;/li&gt;&lt;li&gt;紧急制动&lt;/li&gt;&lt;li&gt;灯带控制&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;rounded=1;fontColor=#1D3557;" vertex="1" parent="hm_DF0x08neNtb9daB28-54">
-          <mxGeometry x="12" width="130" height="130" as="geometry" />
+        <mxCell id="hm_DF0x08neNtb9daB28-55" value="&lt;ol style=&quot;font-size: 12px&quot;&gt;&lt;li&gt;车辆碾压手部&lt;/li&gt;&lt;li&gt;车辆碾压脚部&lt;/li&gt;&lt;li&gt;车辆碰撞手部&lt;/li&gt;&lt;li&gt;车辆碰撞脚部&lt;/li&gt;&lt;li&gt;紧急制动&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;rounded=1;fontColor=#1D3557;" vertex="1" parent="hm_DF0x08neNtb9daB28-54">
+          <mxGeometry x="12" y="10" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hm_DF0x08neNtb9daB28-56" value="操作台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="hm_DF0x08neNtb9daB28-12">
           <mxGeometry x="41" y="730" width="120" height="130" as="geometry" />
@@ -187,6 +187,9 @@
         </mxCell>
         <mxCell id="hm_DF0x08neNtb9daB28-81" value="显示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;rounded=1;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="250" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hm_DF0x08neNtb9daB28-84" value="灯带控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1D3557;labelBackgroundColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="890" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
