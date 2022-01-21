@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T01:11:39.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" version="16.4.2" etag="_35wjZkmwNUegAeUKu9i" type="github"><diagram id="I95dUkhAVogwGT9_Y_BA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-21T01:21:30.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="HjtDo4wcAUecj40scHiQ" version="16.4.2" type="github">
+  <diagram id="I95dUkhAVogwGT9_Y_BA" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hm_DF0x08neNtb9daB28-3" value="&lt;ol&gt;&lt;li&gt;车辆碾压手部&lt;/li&gt;&lt;li&gt;车辆碾压脚部&lt;/li&gt;&lt;li&gt;车辆碰撞手部&lt;/li&gt;&lt;li&gt;车辆碰撞脚部&lt;/li&gt;&lt;li&gt;紧急制动&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hm_DF0x08neNtb9daB28-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;" edge="1" target="hm_DF0x08neNtb9daB28-3" parent="1" source="hm_DF0x08neNtb9daB28-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hm_DF0x08neNtb9daB28-6" value="全息投影" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="334" y="310" width="86" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="hm_DF0x08neNtb9daB28-7" value="展示事故体验过程" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hm_DF0x08neNtb9daB28-8" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" target="hm_DF0x08neNtb9daB28-7" parent="1" source="hm_DF0x08neNtb9daB28-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hm_DF0x08neNtb9daB28-12" value="操作台" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="220" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="hm_DF0x08neNtb9daB28-15" value="身份认证" style="whiteSpace=wrap;html=1;" vertex="1" parent="hm_DF0x08neNtb9daB28-12">
+          <mxGeometry x="50" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hm_DF0x08neNtb9daB28-16" value="模式选择" style="whiteSpace=wrap;html=1;" vertex="1" parent="hm_DF0x08neNtb9daB28-12">
+          <mxGeometry x="50" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hm_DF0x08neNtb9daB28-2" value="模拟体感装置" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="hm_DF0x08neNtb9daB28-12">
+          <mxGeometry x="50" y="90" width="130" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
