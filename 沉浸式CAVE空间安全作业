@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T10:19:45.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="oc1dpudOot6fLT7UQY5_" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T10:20:00.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="hR5_yH4z5DujK-54j7I0" version="16.4.6" type="github">
   <diagram id="IVjtS5p6Abxoz0YS-tFK" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-hMkgzSj9k6WKi98NOEW-1" value="车辆伤害体验" style="swimlane;horizontal=0;rounded=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontSize=17;verticalAlign=middle;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="30" y="101" width="1110" height="999" as="geometry">
+          <mxGeometry x="30" y="101" width="980" height="999" as="geometry">
             <mxRectangle x="30" y="101" width="40" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
