@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T10:06:26.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="o2U9wQ_0qV0bule8n2WI" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-25T10:09:22.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="ZOWiC3U_jTT9eCdlpW3w" version="16.4.6" type="github">
   <diagram id="IVjtS5p6Abxoz0YS-tFK" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
           <mxGeometry x="12" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-hMkgzSj9k6WKi98NOEW-12" value="自主体验" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="-hMkgzSj9k6WKi98NOEW-7" vertex="1">
-          <mxGeometry x="290" y="140" width="115.5" height="30" as="geometry" />
+          <mxGeometry x="250" y="140" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-hMkgzSj9k6WKi98NOEW-13" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;" parent="-hMkgzSj9k6WKi98NOEW-7" source="-hMkgzSj9k6WKi98NOEW-8" target="-hMkgzSj9k6WKi98NOEW-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -174,10 +174,10 @@
           <mxGeometry x="13" y="40" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="IXxAB07OyLVBsvNE-xdj-19" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;场景&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="IXxAB07OyLVBsvNE-xdj-3">
-          <mxGeometry x="256" y="40" width="120" height="31" as="geometry" />
+          <mxGeometry x="251.5" y="40" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="IXxAB07OyLVBsvNE-xdj-11" value="过场动画" style="swimlane;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" vertex="1" parent="-hMkgzSj9k6WKi98NOEW-1">
-          <mxGeometry x="574" y="431" width="120" height="71" as="geometry" />
+          <mxGeometry x="570" y="431" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="IXxAB07OyLVBsvNE-xdj-12" value="" style="endArrow=classic;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;" edge="1" parent="-hMkgzSj9k6WKi98NOEW-1" target="IXxAB07OyLVBsvNE-xdj-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -188,17 +188,6 @@
         <mxCell id="IXxAB07OyLVBsvNE-xdj-13" value="显示" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#46495D;rounded=1;" vertex="1" connectable="0" parent="IXxAB07OyLVBsvNE-xdj-12">
           <mxGeometry x="0.0573" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IXxAB07OyLVBsvNE-xdj-14" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;" edge="1" parent="-hMkgzSj9k6WKi98NOEW-1" source="IXxAB07OyLVBsvNE-xdj-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="689.5" y="510" as="sourcePoint" />
-            <mxPoint x="634" y="539" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IXxAB07OyLVBsvNE-xdj-15" value="启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#46495D;rounded=1;" vertex="1" connectable="0" parent="IXxAB07OyLVBsvNE-xdj-14">
-          <mxGeometry x="-0.4238" relative="1" as="geometry">
-            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IXxAB07OyLVBsvNE-xdj-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;" edge="1" parent="-hMkgzSj9k6WKi98NOEW-1" source="IXxAB07OyLVBsvNE-xdj-17" target="-hMkgzSj9k6WKi98NOEW-75">
@@ -215,6 +204,8 @@
             <mxPoint x="670" y="669" as="sourcePoint" />
             <mxPoint x="720" y="619" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="820" y="559" />
+              <mxPoint x="770" y="509" />
               <mxPoint x="730" y="629" />
             </Array>
           </mxGeometry>
@@ -270,6 +261,12 @@
         <mxCell id="IXxAB07OyLVBsvNE-xdj-83" value="启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#46495D;" vertex="1" connectable="0" parent="IXxAB07OyLVBsvNE-xdj-82">
           <mxGeometry x="-0.4168" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IXxAB07OyLVBsvNE-xdj-84" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;curved=0;exitX=0.397;exitY=0.967;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="-hMkgzSj9k6WKi98NOEW-1" source="-hMkgzSj9k6WKi98NOEW-12" target="IXxAB07OyLVBsvNE-xdj-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="549" as="sourcePoint" />
+            <mxPoint x="720" y="499" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IXxAB07OyLVBsvNE-xdj-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;" edge="1" parent="1" target="-hMkgzSj9k6WKi98NOEW-7">
