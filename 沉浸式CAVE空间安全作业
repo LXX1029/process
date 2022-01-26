@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T00:56:09.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="keW91jY-RwTTpH7e2CDV" version="16.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T02:23:06.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="jZkNQLQ3Yh3jR0etYmtN" version="16.4.6" type="github">
   <diagram id="IVjtS5p6Abxoz0YS-tFK" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
             <mxPoint x="4" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hMkgzSj9k6WKi98NOEW-75" value="&lt;span style=&quot;text-align: left&quot;&gt;AR眼镜教程场景&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="-hMkgzSj9k6WKi98NOEW-1" vertex="1">
+        <mxCell id="-hMkgzSj9k6WKi98NOEW-75" value="&lt;span style=&quot;text-align: left&quot;&gt;AR眼镜教学视频&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="-hMkgzSj9k6WKi98NOEW-1" vertex="1">
           <mxGeometry x="318" y="806" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-hMkgzSj9k6WKi98NOEW-76" value="体验场景内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="-hMkgzSj9k6WKi98NOEW-1" vertex="1">
@@ -188,21 +188,6 @@
         <mxCell id="IXxAB07OyLVBsvNE-xdj-13" value="显示" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#46495D;rounded=1;" parent="IXxAB07OyLVBsvNE-xdj-12" vertex="1" connectable="0">
           <mxGeometry x="0.0573" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IXxAB07OyLVBsvNE-xdj-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;" parent="-hMkgzSj9k6WKi98NOEW-1" source="IXxAB07OyLVBsvNE-xdj-17" target="-hMkgzSj9k6WKi98NOEW-75" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="669" as="sourcePoint" />
-            <mxPoint x="720" y="619" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="500" y="509" />
-              <mxPoint x="480" y="479" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W-NB67iGD8LPHIJgamGj-1" value="同步显示" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IXxAB07OyLVBsvNE-xdj-24" vertex="1" connectable="0">
-          <mxGeometry x="-0.9075" y="-1" relative="1" as="geometry">
-            <mxPoint x="20" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IXxAB07OyLVBsvNE-xdj-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;" parent="-hMkgzSj9k6WKi98NOEW-1" source="IXxAB07OyLVBsvNE-xdj-19" target="-hMkgzSj9k6WKi98NOEW-76" edge="1">
