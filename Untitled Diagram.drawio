@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T08:11:36.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="6ZWR8Dx44KrJ1M89qPb2" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T08:22:16.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="j3BvS3HDqT1hEmOhhwLO" version="16.6.1" type="github">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-56" value="首页" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="44" y="40" width="680" height="690" as="geometry" />
+          <mxGeometry x="44" y="40" width="680" height="760" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-57" value="体验者" style="swimlane;startSize=20;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-56">
-          <mxGeometry y="20" width="110" height="670" as="geometry">
+          <mxGeometry y="20" width="110" height="740" as="geometry">
             <mxRectangle y="20" width="30" height="520" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -25,7 +25,7 @@
           <mxGeometry x="19" y="319" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-59" value="主界面" style="swimlane;startSize=20;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-56">
-          <mxGeometry x="110" y="20" width="170" height="670" as="geometry">
+          <mxGeometry x="110" y="20" width="170" height="740" as="geometry">
             <mxRectangle x="110" y="20" width="30" height="520" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-61" value="城市选择页面" style="swimlane;startSize=20;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-56">
-          <mxGeometry x="280" y="20" width="210" height="670" as="geometry">
+          <mxGeometry x="280" y="20" width="210" height="740" as="geometry">
             <mxRectangle x="280" y="20" width="30" height="520" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-87" value="预约页面" style="swimlane;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-56">
-          <mxGeometry x="490" y="20" width="190" height="670" as="geometry" />
+          <mxGeometry x="490" y="20" width="190" height="740" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NiBP0WeMa_dFV4ms7JBB-87" source="NiBP0WeMa_dFV4ms7JBB-91" target="NiBP0WeMa_dFV4ms7JBB-94">
           <mxGeometry relative="1" as="geometry" />
@@ -84,16 +84,19 @@
           <mxGeometry x="54" y="232" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-102" value="查看预约码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-87">
-          <mxGeometry x="54" y="408" width="120" height="41" as="geometry" />
+          <mxGeometry x="54" y="458" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-104" value="查看电子参观码" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-87">
-          <mxGeometry x="54" y="474" width="120" height="40" as="geometry" />
+          <mxGeometry x="54" y="524" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="NiBP0WeMa_dFV4ms7JBB-87" source="NiBP0WeMa_dFV4ms7JBB-102" target="NiBP0WeMa_dFV4ms7JBB-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-126" value="弹窗提示“无法入内”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-87">
-          <mxGeometry x="54" y="540" width="120" height="40" as="geometry" />
+          <mxGeometry x="54" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-135" value="弹窗提示“已完成预约”" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-87">
+          <mxGeometry x="54" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NiBP0WeMa_dFV4ms7JBB-56" source="NiBP0WeMa_dFV4ms7JBB-88" target="NiBP0WeMa_dFV4ms7JBB-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -144,30 +147,6 @@
             <mxPoint x="430" y="373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NiBP0WeMa_dFV4ms7JBB-110" value="WebApi" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="780" y="40" width="120" height="690" as="geometry" />
-        </mxCell>
-        <mxCell id="NiBP0WeMa_dFV4ms7JBB-111" value="首页接口" style="swimlane;startSize=20;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-110">
-          <mxGeometry y="20" width="120" height="670" as="geometry" />
-        </mxCell>
-        <mxCell id="NiBP0WeMa_dFV4ms7JBB-115" value="场馆是否超员接口" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/interface.svg;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-111">
-          <mxGeometry x="39" y="324.25" width="50" height="23.5" as="geometry" />
-        </mxCell>
-        <mxCell id="NiBP0WeMa_dFV4ms7JBB-120" value="是否超员" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-111">
-          <mxGeometry x="37" y="408" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NiBP0WeMa_dFV4ms7JBB-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NiBP0WeMa_dFV4ms7JBB-111" source="NiBP0WeMa_dFV4ms7JBB-115" target="NiBP0WeMa_dFV4ms7JBB-120">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-150" y="370" as="sourcePoint" />
-            <mxPoint x="-100" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NiBP0WeMa_dFV4ms7JBB-129" value="保存预约信息接口" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/interface.svg;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-111">
-          <mxGeometry x="39" y="614" width="50" height="23.5" as="geometry" />
-        </mxCell>
-        <mxCell id="NiBP0WeMa_dFV4ms7JBB-117" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="240" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NiBP0WeMa_dFV4ms7JBB-98" target="NiBP0WeMa_dFV4ms7JBB-115">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="430" as="sourcePoint" />
@@ -190,13 +169,37 @@
             <mxPoint x="630" y="420" as="sourcePoint" />
             <mxPoint x="680" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="857" y="620" />
+              <mxPoint x="884" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-128" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NiBP0WeMa_dFV4ms7JBB-127">
           <mxGeometry x="-0.8391" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-111" value="首页接口" style="swimlane;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="760" y="60" width="180" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-115" value="场馆是否超员接口" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/interface.svg;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-111">
+          <mxGeometry x="87" y="324.25" width="50" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-120" value="是否超员" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-111">
+          <mxGeometry x="84" y="459" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NiBP0WeMa_dFV4ms7JBB-111" source="NiBP0WeMa_dFV4ms7JBB-115">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-102" y="370" as="sourcePoint" />
+            <mxPoint x="124" y="408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-129" value="保存预约信息接口" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/interface.svg;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-111">
+          <mxGeometry x="27" y="681" width="50" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-133" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="NiBP0WeMa_dFV4ms7JBB-129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="812" y="540" as="sourcePoint" />
+            <mxPoint x="680" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
