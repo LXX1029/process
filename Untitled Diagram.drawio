@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T09:52:38.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="oTDhFiUHXeDyCcXLRPZj" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T09:54:45.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="FB8_TkyFtLg4SfdTAXKl" version="16.6.1" type="github">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页流程图">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
           <mxGeometry x="41" y="42" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-140" value="加载场馆数据列表" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-59">
-          <mxGeometry x="25" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="25" y="419" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-150" value="是否选择场馆？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-59">
           <mxGeometry x="45" y="480" width="80" height="50" as="geometry" />
@@ -223,7 +223,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-167" value="自动获取当前位置" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-59">
-          <mxGeometry x="28" y="162" width="120" height="39" as="geometry" />
+          <mxGeometry x="25" y="162" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-168" value="是否获取" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-59">
+          <mxGeometry x="45" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-169" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="NiBP0WeMa_dFV4ms7JBB-59" source="NiBP0WeMa_dFV4ms7JBB-167" target="NiBP0WeMa_dFV4ms7JBB-168">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="220" as="sourcePoint" />
+            <mxPoint x="81" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-170" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NiBP0WeMa_dFV4ms7JBB-59" source="NiBP0WeMa_dFV4ms7JBB-168" target="NiBP0WeMa_dFV4ms7JBB-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="360" as="sourcePoint" />
+            <mxPoint x="530" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="NiBP0WeMa_dFV4ms7JBB-58" target="NiBP0WeMa_dFV4ms7JBB-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
