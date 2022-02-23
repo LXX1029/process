@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T09:33:33.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="icp4GNBSp7r7QKODX9iG" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T09:35:32.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="gKuNVbokEy_tMaygloZy" version="16.6.1" type="github">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
           <mxGeometry x="54" y="327" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-94" value="填写预约信息" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-87">
-          <mxGeometry x="54" y="426" width="120" height="48" as="geometry" />
+          <mxGeometry x="54" y="403" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-126" value="弹窗提示“无法入内”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-87">
           <mxGeometry x="54" y="769" width="120" height="40" as="geometry" />
@@ -145,6 +145,12 @@
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-164" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-87">
           <mxGeometry x="250" y="605" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NiBP0WeMa_dFV4ms7JBB-166" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="NiBP0WeMa_dFV4ms7JBB-87" source="NiBP0WeMa_dFV4ms7JBB-94" target="NiBP0WeMa_dFV4ms7JBB-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="481" as="sourcePoint" />
+            <mxPoint x="150" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="NiBP0WeMa_dFV4ms7JBB-67" target="NiBP0WeMa_dFV4ms7JBB-140">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="429" as="sourcePoint" />
@@ -161,8 +167,8 @@
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="NiBP0WeMa_dFV4ms7JBB-96" target="NiBP0WeMa_dFV4ms7JBB-94">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="623" as="sourcePoint" />
-            <mxPoint x="430" y="573" as="targetPoint" />
+            <mxPoint x="380" y="600" as="sourcePoint" />
+            <mxPoint x="430" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-61" value="城市选择页面" style="swimlane;startSize=20;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
@@ -242,7 +248,7 @@
           <mxGeometry x="19" y="130" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-96" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-57">
-          <mxGeometry x="19" y="434" width="20" height="30" as="geometry" />
+          <mxGeometry x="19" y="411" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NiBP0WeMa_dFV4ms7JBB-100" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="NiBP0WeMa_dFV4ms7JBB-57">
           <mxGeometry x="19" y="507" width="20" height="30" as="geometry" />
