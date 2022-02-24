@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T08:38:28.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="Dv4Cu46UUTBv-Brinsuu" version="16.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-24T08:38:43.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="tRVW3NLFHz01aa60Dtj9" version="16.6.3" type="github" pages="4">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -1356,7 +1356,7 @@
         <mxCell id="ct1e4BaPru6XRCipM2ep-0" value="页面加载" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.event;rounded=0;" vertex="1" parent="mQ5BPuL8z8Gy7d9xP0KY-5">
           <mxGeometry x="90" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LAEEzkjxkuUbLYaNaWwW-0" value="手机号码" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="mQ5BPuL8z8Gy7d9xP0KY-5">
+        <mxCell id="LAEEzkjxkuUbLYaNaWwW-0" value="显示手机号码" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="mQ5BPuL8z8Gy7d9xP0KY-5">
           <mxGeometry x="50" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LAEEzkjxkuUbLYaNaWwW-1" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="mQ5BPuL8z8Gy7d9xP0KY-5" source="ct1e4BaPru6XRCipM2ep-0" target="LAEEzkjxkuUbLYaNaWwW-0">
