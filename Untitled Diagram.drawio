@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T10:03:20.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="mE9K6MrR1aXryDC1VwW3" version="16.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-24T10:04:23.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="QwXYqrBOWD-aw4yFPn6U" version="16.6.3" type="github" pages="8">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -1986,11 +1986,35 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="cSsrXfg2BSieqYgIxaD9" name="Page-5">
+  <diagram id="cSsrXfg2BSieqYgIxaD9" name="个人中心-体验档案">
     <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="k9-rwrrX25vTz_QNNzx3-0" />
         <mxCell id="k9-rwrrX25vTz_QNNzx3-1" parent="k9-rwrrX25vTz_QNNzx3-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GOzhX0t_cpTpAvVAVQpb" name="个人中心-体验相册">
+    <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8S2hcXVpBCtAmwmIija3-0" />
+        <mxCell id="8S2hcXVpBCtAmwmIija3-1" parent="8S2hcXVpBCtAmwmIija3-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6MvZbRfZlF8EB-aMfPSR" name="我的行程">
+    <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="h6R-e8folxDTOLxbau9p-0" />
+        <mxCell id="h6R-e8folxDTOLxbau9p-1" parent="h6R-e8folxDTOLxbau9p-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Adq2xex3Iqqk2r_rQ_RG" name="入馆">
+    <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="U8WUts2arRTHmor4_lHc-0" />
+        <mxCell id="U8WUts2arRTHmor4_lHc-1" parent="U8WUts2arRTHmor4_lHc-0" />
       </root>
     </mxGraphModel>
   </diagram>
