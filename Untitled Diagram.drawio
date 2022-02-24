@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T05:44:35.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="SKhgTezUk4Zsvw2Xg21_" version="16.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-24T05:47:42.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="HkZFNhPHHJ9pm-V486CV" version="16.6.3" type="github" pages="3">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fNC6MDTyCXg9S3vSq4UL" name="个人中心">
-    <mxGraphModel dx="2485" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="H7emskLgrkqgXdoMQ41O-0" />
         <mxCell id="H7emskLgrkqgXdoMQ41O-1" parent="H7emskLgrkqgXdoMQ41O-0" />
@@ -520,27 +520,27 @@
           <mxGeometry x="90" y="20" width="230" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-4" value="微信用户一键登录" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#A8DADC;strokeColor=none;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="X7P_IKECmEEufC5FT72i-2">
-          <mxGeometry x="39" y="233" width="100" height="30" as="geometry" />
+          <mxGeometry x="33" y="233" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-23" value="手机号码登录" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#A8DADC;strokeColor=none;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="X7P_IKECmEEufC5FT72i-2">
           <mxGeometry x="43" y="553" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-34" value="是否授权？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-2">
-          <mxGeometry x="49" y="286" width="80" height="50" as="geometry" />
+          <mxGeometry x="43" y="286" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-35" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;" edge="1" parent="X7P_IKECmEEufC5FT72i-2" target="gaiBIKC-Q6SmLFVudmPM-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="89" y="260" as="sourcePoint" />
-            <mxPoint x="516" y="420" as="targetPoint" />
+            <mxPoint x="83" y="260" as="sourcePoint" />
+            <mxPoint x="510" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-36" value="弹窗提示“您已拒绝授权，请重新点击并授权" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-2">
-          <mxGeometry x="9" y="501" width="160" height="30" as="geometry" />
+          <mxGeometry x="3" y="501" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-37" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="X7P_IKECmEEufC5FT72i-2" source="gaiBIKC-Q6SmLFVudmPM-34" target="gaiBIKC-Q6SmLFVudmPM-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="89" y="459.0000000000002" as="sourcePoint" />
-            <mxPoint x="524" y="431" as="targetPoint" />
+            <mxPoint x="83" y="459.0000000000002" as="sourcePoint" />
+            <mxPoint x="518" y="431" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-38" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="gaiBIKC-Q6SmLFVudmPM-37">
@@ -554,7 +554,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-94" value="是否首次登录？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-2">
-          <mxGeometry x="117" y="349" width="80" height="60" as="geometry" />
+          <mxGeometry x="88" y="349" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-97" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="X7P_IKECmEEufC5FT72i-2" source="gaiBIKC-Q6SmLFVudmPM-34" target="gaiBIKC-Q6SmLFVudmPM-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="702" y="450" as="sourcePoint" />
+            <mxPoint x="752" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="128" y="311" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KWdzEyZCUIvvA7bcg3DY-1" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;jumpSize=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#F1FAEE;" edge="1" parent="X7P_IKECmEEufC5FT72i-0" source="kr0OSv-s2menIeKXR0ze-0" target="KWdzEyZCUIvvA7bcg3DY-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -709,20 +718,6 @@
             <mxPoint x="-36" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gaiBIKC-Q6SmLFVudmPM-39" value="" style="endArrow=classic;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H7emskLgrkqgXdoMQ41O-1" target="gaiBIKC-Q6SmLFVudmPM-94">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="217" y="332.0000000000002" as="sourcePoint" />
-            <mxPoint x="250" y="380" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="245" y="332" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gaiBIKC-Q6SmLFVudmPM-40" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="gaiBIKC-Q6SmLFVudmPM-39">
-          <mxGeometry x="-0.7789" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-48" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.94;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="H7emskLgrkqgXdoMQ41O-1" source="gaiBIKC-Q6SmLFVudmPM-50" target="gaiBIKC-Q6SmLFVudmPM-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="611" as="sourcePoint" />
@@ -736,7 +731,7 @@
           <mxGeometry x="75" y="694" width="50" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-56" value="保存登录信息接口" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/interface.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="gaiBIKC-Q6SmLFVudmPM-49">
-          <mxGeometry x="71" y="452.5" width="50" height="23.5" as="geometry" />
+          <mxGeometry x="71" y="460.5" width="50" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-84" value="保存登录信息接口" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/interface.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="gaiBIKC-Q6SmLFVudmPM-49">
           <mxGeometry x="80" y="924" width="50" height="23.5" as="geometry" />
@@ -762,14 +757,13 @@
             <mxPoint x="250" y="430" as="sourcePoint" />
             <mxPoint x="850" y="359" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="245" y="470" />
-              <mxPoint x="630" y="470" />
+              <mxPoint x="216" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-95" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#1D3557;" vertex="1" connectable="0" parent="gaiBIKC-Q6SmLFVudmPM-57">
           <mxGeometry x="-0.8949" relative="1" as="geometry">
-            <mxPoint x="-28" y="-20" as="offset" />
+            <mxPoint x="-19" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-58" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=1.02;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="H7emskLgrkqgXdoMQ41O-1" source="gaiBIKC-Q6SmLFVudmPM-23">
@@ -840,6 +834,22 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="585" as="sourcePoint" />
             <mxPoint x="130.79999999999973" y="585.51" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-96" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="H7emskLgrkqgXdoMQ41O-1" source="gaiBIKC-Q6SmLFVudmPM-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="470" as="sourcePoint" />
+            <mxPoint x="320" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-98" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#1D3557;" vertex="1" connectable="0" parent="gaiBIKC-Q6SmLFVudmPM-96">
+          <mxGeometry x="-0.443" y="-1" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-99" value="跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#1D3557;" vertex="1" connectable="0" parent="gaiBIKC-Q6SmLFVudmPM-96">
+          <mxGeometry x="0.4063" relative="1" as="geometry">
+            <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
