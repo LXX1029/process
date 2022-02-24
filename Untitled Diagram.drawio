@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T02:23:39.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="0dPe1zAwejwAQdJ6QcwY" version="16.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-24T02:26:17.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="R4s38ZJdpMGs_ClHwScG" version="16.6.3" type="github" pages="3">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
         <mxCell id="H7emskLgrkqgXdoMQ41O-0" />
         <mxCell id="H7emskLgrkqgXdoMQ41O-1" parent="H7emskLgrkqgXdoMQ41O-0" />
         <mxCell id="X7P_IKECmEEufC5FT72i-0" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="H7emskLgrkqgXdoMQ41O-1">
-          <mxGeometry width="770" height="510" as="geometry" />
+          <mxGeometry width="760" height="510" as="geometry" />
         </mxCell>
         <mxCell id="X7P_IKECmEEufC5FT72i-1" value="用户" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-0">
           <mxGeometry y="20" width="90" height="490" as="geometry" />
@@ -502,19 +502,7 @@
           <mxGeometry x="34" y="40" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X7P_IKECmEEufC5FT72i-2" value="登录" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-0">
-          <mxGeometry x="90" y="20" width="180" height="490" as="geometry" />
-        </mxCell>
-        <mxCell id="X7P_IKECmEEufC5FT72i-3" value="账户设置页面" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-0">
-          <mxGeometry x="270" y="20" width="250" height="490" as="geometry" />
-        </mxCell>
-        <mxCell id="KWdzEyZCUIvvA7bcg3DY-0" value="账户设置" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#A8DADC;strokeColor=none;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="X7P_IKECmEEufC5FT72i-3">
-          <mxGeometry x="70" y="40" width="65" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KWdzEyZCUIvvA7bcg3DY-3" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;jumpSize=1;labelBackgroundColor=#F1FAEE;" edge="1" parent="X7P_IKECmEEufC5FT72i-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="135" y="57" as="sourcePoint" />
-            <mxPoint x="205" y="57" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="90" y="20" width="160" height="490" as="geometry" />
         </mxCell>
         <mxCell id="KWdzEyZCUIvvA7bcg3DY-1" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;jumpSize=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#F1FAEE;" edge="1" parent="X7P_IKECmEEufC5FT72i-0" source="kr0OSv-s2menIeKXR0ze-0" target="KWdzEyZCUIvvA7bcg3DY-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -527,8 +515,43 @@
             <mxPoint x="183" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="X7P_IKECmEEufC5FT72i-3" value="账户设置页面" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-0">
+          <mxGeometry x="250" y="20" width="260" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="KWdzEyZCUIvvA7bcg3DY-0" value="账户设置" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#A8DADC;strokeColor=none;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="X7P_IKECmEEufC5FT72i-3">
+          <mxGeometry x="86" y="40" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KWdzEyZCUIvvA7bcg3DY-7" value="是否已登录？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-3">
+          <mxGeometry x="78.5" y="103" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KWdzEyZCUIvvA7bcg3DY-8" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="X7P_IKECmEEufC5FT72i-3" source="KWdzEyZCUIvvA7bcg3DY-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="300" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWdzEyZCUIvvA7bcg3DY-9" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="KWdzEyZCUIvvA7bcg3DY-8">
+          <mxGeometry x="-0.6805" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWdzEyZCUIvvA7bcg3DY-10" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="X7P_IKECmEEufC5FT72i-3" source="KWdzEyZCUIvvA7bcg3DY-0" target="KWdzEyZCUIvvA7bcg3DY-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="146" y="300" as="sourcePoint" />
+            <mxPoint x="196" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWdzEyZCUIvvA7bcg3DY-11" value="弹窗提示“请先登录”" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-3">
+          <mxGeometry x="68.5" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="KWdzEyZCUIvvA7bcg3DY-6" value="账户设置页面" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-0">
-          <mxGeometry x="520" y="20" width="250" height="490" as="geometry" />
+          <mxGeometry x="510" y="20" width="250" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="KWdzEyZCUIvvA7bcg3DY-12" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="H7emskLgrkqgXdoMQ41O-1" source="KWdzEyZCUIvvA7bcg3DY-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="310" as="sourcePoint" />
+            <mxPoint x="250" y="235" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
