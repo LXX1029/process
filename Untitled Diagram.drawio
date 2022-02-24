@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T07:58:14.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="RwrdWbnTC85TGMT-C3Fq" version="16.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-24T08:02:27.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="99g2t5xbAusLZSB0c7zk" version="16.6.3" type="github" pages="3">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fNC6MDTyCXg9S3vSq4UL" name="个人中心">
-    <mxGraphModel dx="3175" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="2485" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="H7emskLgrkqgXdoMQ41O-0" />
         <mxCell id="H7emskLgrkqgXdoMQ41O-1" parent="H7emskLgrkqgXdoMQ41O-0" />
@@ -975,10 +975,10 @@
           <mxGeometry x="-572.5" y="173" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-28" value="换绑手机号" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#A8DADC;strokeColor=none;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="X7P_IKECmEEufC5FT72i-3">
-          <mxGeometry x="46.75" y="2600" width="65" height="30" as="geometry" />
+          <mxGeometry x="32.5" y="2420" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-32" value="参观人员管理" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#A8DADC;strokeColor=none;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="X7P_IKECmEEufC5FT72i-3">
-          <mxGeometry x="26.25" y="2678" width="97.5" height="30" as="geometry" />
+          <mxGeometry x="12" y="2498" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KWdzEyZCUIvvA7bcg3DY-6" value="换绑手机号页面" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-0">
           <mxGeometry x="1260" y="20" width="250" height="2840" as="geometry" />
@@ -1329,7 +1329,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u3Lu5Gv6qs3Y0XOD9fg8" name="Page-2">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UNdIOU8g5U9ULkVq5da_-0" />
         <mxCell id="UNdIOU8g5U9ULkVq5da_-1" parent="UNdIOU8g5U9ULkVq5da_-0" />
