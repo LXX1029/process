@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T08:41:15.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="4Fo-Tff6JRfG6fSJK0xb" version="16.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-24T08:44:26.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="lk326c3jPNJcka3oJesn" version="16.6.3" type="github" pages="4">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -1434,6 +1434,29 @@
         </mxCell>
         <mxCell id="Pho35GQxSdvgCicRS4We-7" value="退出登录" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#A8DADC;strokeColor=none;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;" vertex="1" parent="mQ5BPuL8z8Gy7d9xP0KY-5">
           <mxGeometry x="70" y="589" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pho35GQxSdvgCicRS4We-11" value="弹框确认退出？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="mQ5BPuL8z8Gy7d9xP0KY-5">
+          <mxGeometry x="70" y="636" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pho35GQxSdvgCicRS4We-12" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=0.492;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;" edge="1" parent="mQ5BPuL8z8Gy7d9xP0KY-5" source="Pho35GQxSdvgCicRS4We-7" target="Pho35GQxSdvgCicRS4We-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="790" as="sourcePoint" />
+            <mxPoint x="30" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pho35GQxSdvgCicRS4We-13" value="首页" style="shape=mxgraph.cisco.misc.page_icon;html=1;pointerEvents=1;dashed=0;fillColor=#A8DADC;strokeColor=#457B9D;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="mQ5BPuL8z8Gy7d9xP0KY-5">
+          <mxGeometry x="86" y="731" width="48" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Pho35GQxSdvgCicRS4We-14" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="mQ5BPuL8z8Gy7d9xP0KY-5" source="Pho35GQxSdvgCicRS4We-11" target="Pho35GQxSdvgCicRS4We-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="690" as="sourcePoint" />
+            <mxPoint x="30" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pho35GQxSdvgCicRS4We-15" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="Pho35GQxSdvgCicRS4We-14">
+          <mxGeometry x="-0.4538" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V2RZlJpxCqaBLQOffE_a-2" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#F1FAEE;" edge="1" parent="mQ5BPuL8z8Gy7d9xP0KY-2" source="V2RZlJpxCqaBLQOffE_a-1" target="hOCXpXw0PPPvzS5QE438-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
