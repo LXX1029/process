@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T03:33:24.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="IISyKO4izDpFizr7sB27" version="16.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-24T03:35:12.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="Ib_Fi-xQbt7bFdcFyy0E" version="16.6.3" type="github" pages="3">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -600,6 +600,9 @@
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-71" value="输入验证码" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="gaiBIKC-Q6SmLFVudmPM-52">
           <mxGeometry x="23" y="693" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-75" value="验证码是否正确？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="gaiBIKC-Q6SmLFVudmPM-52">
+          <mxGeometry x="43" y="747" width="80" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-27" value="个人中心页面" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="X7P_IKECmEEufC5FT72i-0">
           <mxGeometry x="500" y="20" width="240" height="1060" as="geometry" />
         </mxCell>
@@ -763,6 +766,20 @@
               <mxPoint x="330" y="647" />
               <mxPoint x="330" y="590" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-77" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#1D3557;" vertex="1" connectable="0" parent="gaiBIKC-Q6SmLFVudmPM-74">
+          <mxGeometry x="-0.1111" relative="1" as="geometry">
+            <mxPoint x="15" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-78" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="H7emskLgrkqgXdoMQ41O-1">
+          <mxGeometry x="32" y="602" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-79" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="H7emskLgrkqgXdoMQ41O-1" source="gaiBIKC-Q6SmLFVudmPM-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602" y="722" as="sourcePoint" />
+            <mxPoint x="330" y="617" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
