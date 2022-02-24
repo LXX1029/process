@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T08:44:26.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="lk326c3jPNJcka3oJesn" version="16.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-24T08:45:50.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="RttHMmSGyFJRAAsfzKIE" version="16.6.3" type="github" pages="4">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -1310,12 +1310,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="THDbpENvMNbpWeqtqnAp" name="个人中-账户设置">
+  <diagram id="THDbpENvMNbpWeqtqnAp" name="个人中-账户设置-参观人员管理">
     <mxGraphModel dx="1174" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="mQ5BPuL8z8Gy7d9xP0KY-0" />
         <mxCell id="mQ5BPuL8z8Gy7d9xP0KY-1" parent="mQ5BPuL8z8Gy7d9xP0KY-0" />
-        <mxCell id="mQ5BPuL8z8Gy7d9xP0KY-2" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="mQ5BPuL8z8Gy7d9xP0KY-1">
+        <mxCell id="mQ5BPuL8z8Gy7d9xP0KY-2" value="个人中-账户设置-参观人员管理" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="mQ5BPuL8z8Gy7d9xP0KY-1">
           <mxGeometry width="803" height="820" as="geometry" />
         </mxCell>
         <mxCell id="mQ5BPuL8z8Gy7d9xP0KY-3" value="用户" style="swimlane;startSize=20;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="mQ5BPuL8z8Gy7d9xP0KY-2">
