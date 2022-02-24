@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T10:04:23.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="QwXYqrBOWD-aw4yFPn6U" version="16.6.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-02-24T10:07:54.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="3HKv8zuYk0LG_D6xWUuU" version="16.6.3" type="github" pages="8">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1409" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -1991,6 +1991,18 @@
       <root>
         <mxCell id="k9-rwrrX25vTz_QNNzx3-0" />
         <mxCell id="k9-rwrrX25vTz_QNNzx3-1" parent="k9-rwrrX25vTz_QNNzx3-0" />
+        <mxCell id="7eNJ0LLSlhvvz5anTEJw-0" value="个人中心-体验档案" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="k9-rwrrX25vTz_QNNzx3-1">
+          <mxGeometry width="360" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="7eNJ0LLSlhvvz5anTEJw-1" value="Lane 1" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="7eNJ0LLSlhvvz5anTEJw-0">
+          <mxGeometry y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="7eNJ0LLSlhvvz5anTEJw-2" value="Lane 2" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="7eNJ0LLSlhvvz5anTEJw-0">
+          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="7eNJ0LLSlhvvz5anTEJw-3" value="Lane 3" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="7eNJ0LLSlhvvz5anTEJw-0">
+          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
