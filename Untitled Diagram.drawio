@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T05:47:42.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="HkZFNhPHHJ9pm-V486CV" version="16.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-24T05:51:28.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="_3CG035C_S-w6cpGJ-si" version="16.6.3" type="github" pages="3">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -492,6 +492,20 @@
       <root>
         <mxCell id="H7emskLgrkqgXdoMQ41O-0" />
         <mxCell id="H7emskLgrkqgXdoMQ41O-1" parent="H7emskLgrkqgXdoMQ41O-0" />
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-100" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="H7emskLgrkqgXdoMQ41O-1" source="gaiBIKC-Q6SmLFVudmPM-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="430" as="sourcePoint" />
+            <mxPoint x="318" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="216" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-102" value="跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#1D3557;" vertex="1" connectable="0" parent="gaiBIKC-Q6SmLFVudmPM-100">
+          <mxGeometry x="0.4063" relative="1" as="geometry">
+            <mxPoint x="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X7P_IKECmEEufC5FT72i-0" value="个人中心模块" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="H7emskLgrkqgXdoMQ41O-1">
           <mxGeometry x="-2" width="1380" height="1080" as="geometry" />
         </mxCell>
@@ -736,6 +750,9 @@
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-84" value="保存登录信息接口" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/interface.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="gaiBIKC-Q6SmLFVudmPM-49">
           <mxGeometry x="80" y="924" width="50" height="23.5" as="geometry" />
         </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-103" value="判断是否是首次登录接口" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/interface.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="gaiBIKC-Q6SmLFVudmPM-49">
+          <mxGeometry x="60" y="338" width="50" height="23.5" as="geometry" />
+        </mxCell>
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-53" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="H7emskLgrkqgXdoMQ41O-1" source="KWdzEyZCUIvvA7bcg3DY-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="410" as="sourcePoint" />
@@ -850,6 +867,12 @@
         <mxCell id="gaiBIKC-Q6SmLFVudmPM-99" value="跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#1D3557;" vertex="1" connectable="0" parent="gaiBIKC-Q6SmLFVudmPM-96">
           <mxGeometry x="0.4063" relative="1" as="geometry">
             <mxPoint x="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gaiBIKC-Q6SmLFVudmPM-104" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;fontSize=12;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="H7emskLgrkqgXdoMQ41O-1" source="gaiBIKC-Q6SmLFVudmPM-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="580" as="sourcePoint" />
+            <mxPoint x="216" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
