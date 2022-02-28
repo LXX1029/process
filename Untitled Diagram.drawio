@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T09:58:59.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="V5SnE7N-ZZ3v2yor1skw" version="16.6.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-02-28T10:00:22.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="y9NvxIdntMsMdur0B5gZ" version="16.6.3" type="github" pages="10">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -3599,6 +3599,15 @@
         <mxCell id="-F1gfrLkRFhtVd1dEYbn-1" value="体验设备" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="6JfdOurMKGTmhLzSs1jP-4">
           <mxGeometry x="57.5" y="132" width="115" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lU-7EMTm3g2tX2g2xrFa-31" value="场馆介绍" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#A8DADC;strokeColor=none;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="6JfdOurMKGTmhLzSs1jP-4">
+          <mxGeometry x="56.25" y="380" width="117.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lU-7EMTm3g2tX2g2xrFa-32" value="点赞" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#A8DADC;strokeColor=none;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="6JfdOurMKGTmhLzSs1jP-4">
+          <mxGeometry x="56.25" y="440" width="117.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lU-7EMTm3g2tX2g2xrFa-33" value="评论" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#A8DADC;strokeColor=none;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="6JfdOurMKGTmhLzSs1jP-4">
+          <mxGeometry x="56.25" y="500" width="117.5" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="6JfdOurMKGTmhLzSs1jP-5" value="安全知识学习界面" style="swimlane;startSize=20;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="6JfdOurMKGTmhLzSs1jP-2">
           <mxGeometry x="320" y="20" width="250" height="590" as="geometry" />
         </mxCell>
@@ -3619,7 +3628,7 @@
         </mxCell>
         <mxCell id="lU-7EMTm3g2tX2g2xrFa-30" value="跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;" vertex="1" connectable="0" parent="lU-7EMTm3g2tX2g2xrFa-26">
           <mxGeometry x="-0.7718" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lU-7EMTm3g2tX2g2xrFa-27" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" vertex="1" parent="6JfdOurMKGTmhLzSs1jP-5">
