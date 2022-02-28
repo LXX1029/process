@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T02:24:16.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="5wcgHwAH8dhBbuYChraR" version="16.6.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-02-28T02:29:03.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="BvBV-6ejBm3x5uGCMNEM" version="16.6.3" type="github" pages="8">
   <diagram id="H-XeCE0ZFacExJqMWN6Y" name="首页-选择城市-场馆展示-预约流程图">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -2212,7 +2212,7 @@
         <mxCell id="h6R-e8folxDTOLxbau9p-0" />
         <mxCell id="h6R-e8folxDTOLxbau9p-1" parent="h6R-e8folxDTOLxbau9p-0" />
         <mxCell id="p07iYvH1oYWcCMCmrTVY-0" value="我的行程" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="h6R-e8folxDTOLxbau9p-1">
-          <mxGeometry width="1150" height="1230" as="geometry" />
+          <mxGeometry width="1190" height="1230" as="geometry" />
         </mxCell>
         <mxCell id="p07iYvH1oYWcCMCmrTVY-1" value="用户" style="swimlane;startSize=20;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="p07iYvH1oYWcCMCmrTVY-0">
           <mxGeometry y="20" width="100" height="1210" as="geometry" />
@@ -2348,10 +2348,10 @@
           <mxGeometry x="35" y="910" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dcNIxizCjyvWGIA_SjnM-34" value="变更预约信息页面" style="swimlane;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;startSize=20;" vertex="1" parent="p07iYvH1oYWcCMCmrTVY-0">
-          <mxGeometry x="900" y="20" width="90" height="1210" as="geometry" />
+          <mxGeometry x="900" y="20" width="130" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="p07iYvH1oYWcCMCmrTVY-22" value="服务接口" style="swimlane;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;startSize=20;" vertex="1" parent="p07iYvH1oYWcCMCmrTVY-0">
-          <mxGeometry x="990" y="20" width="160" height="1210" as="geometry" />
+          <mxGeometry x="1030" y="20" width="160" height="1210" as="geometry" />
         </mxCell>
         <mxCell id="p07iYvH1oYWcCMCmrTVY-23" value="获取行程分类数据接口" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/interface.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=#F1FAEE;" vertex="1" parent="p07iYvH1oYWcCMCmrTVY-22">
           <mxGeometry x="56" y="48.25" width="50" height="23.5" as="geometry" />
